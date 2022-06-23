@@ -1,4 +1,5 @@
-### Olá! Eu sou a Ana. Seja bem vinda(o) ao meu GitHub.
+### 
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=061119&center=true&vCenter=true&width=650&height=90&lines=Olá!+Eu+sou+a+Ana.;Seja+bem+vinda(o)+ao+meu+GitHub.⭐">
 
 
 <div align="center">
