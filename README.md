@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ana Nunes 👋
+### Olá! Eu sou a Ana. Seja bem vinda(o) ao meu GitHub.
 
 
 <div align="center">
