@@ -1,10 +1,6 @@
 ### Olá! Eu sou a Ana Nunes 👋
 
 
-- 👩‍💻 Estudante de programação
-- 🌱 Atualmente estou praticando HTML, CSS e javaScript
-- 📫 Contate-me no email: ananuneslp6@gmail.com
-
 <div align="center">
   <a href="https://github.com/Anaaplg">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Anaaplg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
